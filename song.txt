@@ -1,7 +1,4 @@
 충돌전
 충돌후 - 아마겟돈
-<<<<<<< HEAD
-충돌 colldsdafqwkj3w121
-=======
-충돌시켜보기
->>>>>>> origin/pes
+충돌 colldsdafqwkj3w121-충돌시켜보기
+
